@@ -1,0 +1,12 @@
+List giao diện:
+- Trang đắng nhập (btn đăng nhập, btn quên mật khẩu) -> load đăng nhập -> Trang Chủ
+-  Trang mất kết nối( btn tải lại)
+-  Trang sai mật khẩu, tài khoản(btn đăng nhập lại)
+-  Trang quên mật khẩu -> nhập mail
+-  Trang thông tin cá nhân: mail, họ tên, sdt, số tin tức đã xem
+Trang chủ gồm:
+- Btn tìm kiếm
+- Btn thông tin cá nhân
+- Sidebar (drawer in flutter) gồm:
+ btn(phòng ban, Khoa, Học bổng, câu lạc bộ, đăng xuất).
+- Nội dung gồm có danh sách tin tức mới
